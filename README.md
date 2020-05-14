@@ -1,5 +1,5 @@
 # Nutrition Facts Label Extraction
-- This is the repository for ELEN 4830 Digital Image Processing course project at Columbia University.
+- This is the repository for ELEN 4830 Digital Image Processing course project at Columbia University. Report can be found at [here]().
 
 ## Requirement
 - `opencv-python 4.2.0.34`
@@ -8,6 +8,6 @@
 - `numpy 1.18.4`
 
 ## Usage
-- replace `test_file_dir` to your image direction to test the program
+- Replace `test_file_dir` to your image direction to test the program
 - Sample images can be found in `test_figures/`
 - Intermediate and final image results can be found in `tmp`
